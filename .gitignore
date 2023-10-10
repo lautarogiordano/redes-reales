@@ -1,2 +1,3 @@
 redes/**
-!redes/FAO/**
+# Do not ignore redes/FAO/ folder
+!redes/FAO/coordinate-countries-fixed.csv
