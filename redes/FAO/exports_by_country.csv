@@ -1,0 +1,215 @@
+index,name,exports (m usd)
+0,Afghanistan,231.067
+1,Australia,29535.613
+2,Austria,9919.616
+3,Belgium,30765.632
+4,Brazil,68635.271
+5,Canada,35985.558
+6,China,25836.912
+7,Hong Kong,1122.459
+8,"China, mainland",28261.407
+9,Taiwan,1442.284
+10,Denmark,15421.749
+11,Egypt,3241.825
+12,Finland,1775.259
+13,France,62593.755
+14,Germany,66948.805
+15,Guatemala,4155.365
+16,India,17553.02
+17,Indonesia,31993.596
+18,Iran,2261.668
+19,Iraq,51.462
+20,Ireland,13704.09
+21,Italy,34943.269
+22,Japan,4625.779
+23,Kazakhstan,1290.116
+24,Lebanon,390.968
+25,Malaysia,25438.224
+26,Netherlands,74863.606
+27,Pakistan,2871.77
+28,Philippines,5504.526
+29,Poland,15339.979
+30,Republic of Korea,3305.923
+31,Russian Federation,4670.691
+32,Saudi Arabia,1192.291
+33,Singapore,4987.807
+34,Spain,33933.855
+35,Sweden,4518.732
+36,Switzerland,9627.268
+37,Tajikistan,321.132
+38,Thailand,29592.703
+39,Turkey,9102.247
+40,Turkmenistan,298.6
+41,Ukraine,8306.718
+42,United Arab Emirates,6076.399
+43,United Kingdom,24540.516
+44,United States,130060.548
+45,Uzbekistan,2224.072
+46,Vietnam,9696.33
+47,Albania,60.159
+48,Argentina,37061.589
+49,Bahamas,20.961
+50,Bosnia and Herzegovina,369.649
+51,Bulgaria,2685.588
+52,Cabo Verde,1.306
+53,Cameroon,1400.889
+54,Colombia,6257.314
+55,Comoros,19.136
+56,Congo,59.918
+57,Costa Rica,4310.034
+58,Cote d'Ivoire,5824.218
+59,Croatia,1195.502
+60,Cuba,908.384
+61,Cyprus,408.352
+62,Czech Republic,5720.491
+63,Dominica,21.909
+64,Dominican Republic,1512.684
+65,Ecuador,5034.683
+66,Ethiopia,1594.36
+67,Greece,4838.435
+68,Hungary,7039.196
+69,Israel,2146.698
+70,Kenya,2218.593
+71,Kyrgyzstan,266.56
+72,Lithuania,2505.316
+73,Luxembourg,1615.047
+74,Malawi,799.393
+75,Mexico,18850.86
+76,Montenegro,29.407
+77,Morocco,2234.064
+78,Nicaragua,1335.928
+79,Norway,730.143
+80,Panama,447.405
+81,Portugal,4246.179
+82,Republic of Moldova,654.579
+83,Romania,3350.038
+84,Sao Tome and Principe,8.343
+85,Serbia,2024.417
+86,Slovakia,2103.461
+87,Slovenia,1116.821
+88,Syrian Arab Republic,1118.315
+89,Macedonia,512.467
+90,Tunisia,769.615
+91,Uganda,666.109
+92,Unspecified,1082.756
+93,Venezuela,171.967
+94,Bolivia,1075.068
+95,Chile,10343.825
+96,El Salvador,808.285
+97,Estonia,715.754
+98,Fiji,233.968
+99,Georgia,206.766
+100,Honduras,1735.043
+101,Iceland,85.989
+102,Jamaica,279.212
+103,Madagascar,280.96
+104,New Zealand,17113.254
+105,Papua New Guinea,968.848
+106,Paraguay,3682.381
+107,Peru,3689.555
+108,South Africa,7159.162
+109,Sri Lanka,1604.575
+110,Sudan,528.327
+111,Trinidad and Tobago,251.805
+112,United Republic of Tanzania,940.752
+113,Uruguay,5109.376
+114,Zambia,553.857
+115,Armenia,157.394
+116,Belarus,331.034
+117,Central African Republic,16.251
+118,Ghana,2844.575
+119,Guyana,259.989
+120,Latvia,991.865
+121,Mali,217.952
+122,Nauru,0.299
+123,Nigeria,1370.322
+124,Oman,227.406
+125,Sierra Leone,41.819
+126,Aruba,0.504
+127,Barbados,58.605
+128,Netherlands Antilles,24.116
+129,Suriname,81.819
+130,American Samoa,1.717
+131,Antigua and Barbuda,10.605
+132,Azerbaijan,300.24
+133,Bahrain,194.266
+134,Bangladesh,235.551
+135,Belize,172.887
+136,Bermuda,8.756
+137,Botswana,97.284
+138,Cambodia,264.014
+139,Macao,36.55
+140,Democratic People's Republic of Korea,44.997
+141,Democratic Republic of the Congo,94.375
+142,Djibouti,34.823
+143,Eritrea,4.252
+144,Guinea,81.736
+145,Jordan,230.13
+146,Lao People's Democratic Republic,221.988
+147,Malta,72.208
+148,Marshall Islands,3.479
+149,Mauritius,334.194
+150,Mongolia,160.403
+151,Mozambique,538.947
+152,Myanmar,1271.852
+153,Namibia,200.647
+154,Nepal,92.167
+155,New Caledonia,6.474
+156,Niger,13.766
+157,Qatar,9.812
+158,Rwanda,93.473
+159,Saint Lucia,35.378
+160,Samoa,3.79
+161,Solomon Islands,47.451
+162,Swaziland,352.266
+163,Timor-Leste,6.596
+164,Tonga,4.211
+165,Vanuatu,25.405
+166,Yemen,150.026
+167,Zimbabwe,714.44
+168,Algeria,128.403
+169,Burkina Faso,442.801
+170,Grenada,6.266
+171,Kuwait,171.832
+172,Togo,424.19
+173,Falkland Islands (Malvinas),4.825
+174,Guam,0.704
+175,Somalia,214.627
+176,Saint Kitts and Nevis,4.121
+177,Saint Vincent and the Grenadines,10.328
+178,Angola,7.155
+179,Benin,283.299
+180,Burundi,57.117
+181,French Polynesia,21.983
+182,Gabon,83.845
+183,Haiti,51.337
+184,Liberia,277.816
+185,Palestinian Territory,96.066
+186,Senegal,276.938
+187,British Virgin Islands,2.265
+188,Seychelles,5.251
+189,Bhutan,1.825
+190,Cook Islands,0.952
+191,Lesotho,8.934
+192,Gambia,31.003
+193,Guinea-Bissau,66.119
+194,Niue,1.59
+195,Chad,24.74
+196,Equatorial Guinea,2.498
+197,Faroe Islands,14.145
+198,Montserrat,0.123
+199,Saint Pierre and Miquelon,0.035
+200,Turks and Caicos Islands,4.481
+201,Brunei,1.473
+202,Greenland,68.983
+203,Libya,12.273
+204,Micronesia,0.331
+205,Palau,0.237
+206,Kiribati,3.331
+207,Saint Helena,0.354
+208,Tuvalu,0.047
+209,Cayman Islands,3.046
+210,Mayotte,0.429
+211,Maldives,1.154
+212,Mauritania,3.946
+213,Andorra,0.011

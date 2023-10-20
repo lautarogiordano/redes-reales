@@ -1,3 +1,4 @@
 redes/**
 # Do not ignore redes/FAO/ folder
 !redes/FAO
+!redes/FAO/**

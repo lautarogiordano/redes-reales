@@ -1,0 +1,215 @@
+index,name,net_trade (m usd)
+0,Afghanistan,-459.129
+1,Australia,20130.75
+2,Austria,-2100.3639999999996
+3,Belgium,-1237.315999999999
+4,Brazil,59123.03899999999
+5,Canada,8951.328999999998
+6,China,-65833.39600000001
+7,Hong Kong,-14425.911999999998
+8,"China, mainland",-41962.348999999995
+9,Taiwan,-8604.951000000001
+10,Denmark,5508.280999999999
+11,Egypt,3241.825
+12,Finland,-2641.228
+13,France,14390.057
+14,Germany,-10438.63900000001
+15,Guatemala,2323.028
+16,India,7375.698
+17,Indonesia,18318.423000000003
+18,Iran,-6359.9490000000005
+19,Iraq,51.462
+20,Ireland,6430.236
+21,Italy,-6903.322999999997
+22,Japan,-54714.964
+23,Kazakhstan,1290.116
+24,Lebanon,-2352.911
+25,Malaysia,10477.981999999998
+26,Netherlands,27378.273999999998
+27,Pakistan,-1550.1680000000001
+28,Philippines,-452.83700000000044
+29,Poland,2501.1679999999997
+30,Republic of Korea,-16653.22
+31,Russian Federation,-27677.078
+32,Saudi Arabia,-15218.820000000002
+33,Singapore,-4875.231000000001
+34,Spain,6198.909000000003
+35,Sweden,-5611.084999999999
+36,Switzerland,-759.0709999999999
+37,Tajikistan,321.132
+38,Thailand,21776.385000000002
+39,Turkey,-596.6760000000013
+40,Turkmenistan,298.6
+41,Ukraine,4520.028
+42,United Arab Emirates,6076.399
+43,United Kingdom,-28401.460000000003
+44,United States,38997.18699999999
+45,Uzbekistan,2224.072
+46,Vietnam,9696.33
+47,Albania,-744.266
+48,Argentina,35404.621
+49,Bahamas,20.961
+50,Bosnia and Herzegovina,-1327.096
+51,Bulgaria,156.21000000000004
+52,Cabo Verde,-202.482
+53,Cameroon,677.0659999999999
+54,Colombia,2317.7900000000004
+55,Comoros,19.136
+56,Congo,-225.63099999999997
+57,Costa Rica,3155.2789999999995
+58,Cote d'Ivoire,4562.873
+59,Croatia,-850.694
+60,Cuba,908.384
+61,Cyprus,-734.9240000000001
+62,Czech Republic,-1724.7579999999998
+63,Dominica,21.909
+64,Dominican Republic,1512.684
+65,Ecuador,3433.966
+66,Ethiopia,673.973
+67,Greece,-2503.209
+68,Hungary,2632.0609999999997
+69,Israel,-1967.8920000000003
+70,Kenya,739.0929999999998
+71,Kyrgyzstan,-318.96099999999996
+72,Lithuania,-172.0260000000003
+73,Luxembourg,-609.4290000000001
+74,Malawi,359.778
+75,Mexico,-1450.9850000000006
+76,Montenegro,-484.258
+77,Morocco,-1994.4020000000005
+78,Nicaragua,658.8620000000001
+79,Norway,-4637.396
+80,Panama,447.405
+81,Portugal,-4472.1900000000005
+82,Republic of Moldova,104.29199999999992
+83,Romania,-1590.4730000000004
+84,Sao Tome and Principe,8.343
+85,Serbia,1029.4899999999998
+86,Slovakia,-2283.53
+87,Slovenia,-1652.922
+88,Syrian Arab Republic,-2481.446
+89,Macedonia,-158.745
+90,Tunisia,-1346.3259999999998
+91,Uganda,89.18299999999999
+92,Unspecified,1082.756
+93,Venezuela,-5900.1320000000005
+94,Bolivia,677.0029999999999
+95,Chile,6277.473000000001
+96,El Salvador,-614.0490000000001
+97,Estonia,-451.0970000000001
+98,Fiji,-45.22999999999999
+99,Georgia,-683.6800000000001
+100,Honduras,1735.043
+101,Iceland,-232.92799999999997
+102,Jamaica,-528.559
+103,Madagascar,-39.91500000000002
+104,New Zealand,13970.399000000001
+105,Papua New Guinea,968.848
+106,Paraguay,3682.381
+107,Peru,610.002
+108,South Africa,2181.1850000000004
+109,Sri Lanka,-265.14099999999985
+110,Sudan,528.327
+111,Trinidad and Tobago,-448.10099999999994
+112,United Republic of Tanzania,145.25599999999997
+113,Uruguay,5109.376
+114,Zambia,324.264
+115,Armenia,-503.13599999999997
+116,Belarus,-2348.361
+117,Central African Republic,-39.17699999999999
+118,Ghana,1696.0749999999998
+119,Guyana,46.712999999999965
+120,Latvia,-683.816
+121,Mali,217.952
+122,Nauru,0.299
+123,Nigeria,1360.541
+124,Oman,-2116.012
+125,Sierra Leone,41.819
+126,Aruba,-322.50199999999995
+127,Barbados,-216.08
+128,Netherlands Antilles,24.116
+129,Suriname,-125.05499999999999
+130,American Samoa,1.717
+131,Antigua and Barbuda,10.605
+132,Azerbaijan,-916.28
+133,Bahrain,-1034.57
+134,Bangladesh,235.551
+135,Belize,57.778999999999996
+136,Bermuda,8.756
+137,Botswana,-599.519
+138,Cambodia,-98.71299999999997
+139,Macao,-840.1840000000001
+140,Democratic People's Republic of Korea,44.997
+141,Democratic Republic of the Congo,94.375
+142,Djibouti,34.823
+143,Eritrea,4.252
+144,Guinea,81.736
+145,Jordan,-2198.718
+146,Lao People's Democratic Republic,221.988
+147,Malta,-438.25800000000004
+148,Marshall Islands,3.479
+149,Mauritius,-345.37999999999994
+150,Mongolia,160.403
+151,Mozambique,538.947
+152,Myanmar,1271.852
+153,Namibia,200.647
+154,Nepal,-501.28
+155,New Caledonia,-364.13100000000003
+156,Niger,-337.144
+157,Qatar,-1857.327
+158,Rwanda,-76.765
+159,Saint Lucia,35.378
+160,Samoa,3.79
+161,Solomon Islands,47.451
+162,Swaziland,352.266
+163,Timor-Leste,6.596
+164,Tonga,-38.398
+165,Vanuatu,-38.541
+166,Yemen,150.026
+167,Zimbabwe,-1277.694
+168,Algeria,128.403
+169,Burkina Faso,134.01599999999996
+170,Grenada,6.266
+171,Kuwait,171.832
+172,Togo,286.58
+173,Falkland Islands (Malvinas),4.825
+174,Guam,0.704
+175,Somalia,214.627
+176,Saint Kitts and Nevis,4.121
+177,Saint Vincent and the Grenadines,-71.965
+178,Angola,7.155
+179,Benin,-183.05600000000004
+180,Burundi,2.4779999999999944
+181,French Polynesia,-359.802
+182,Gabon,83.845
+183,Haiti,51.337
+184,Liberia,277.816
+185,Palestinian Territory,96.066
+186,Senegal,-769.053
+187,British Virgin Islands,2.265
+188,Seychelles,5.251
+189,Bhutan,-91.526
+190,Cook Islands,0.952
+191,Lesotho,8.934
+192,Gambia,-127.75500000000001
+193,Guinea-Bissau,66.119
+194,Niue,1.59
+195,Chad,24.74
+196,Equatorial Guinea,2.498
+197,Faroe Islands,14.145
+198,Montserrat,0.123
+199,Saint Pierre and Miquelon,0.035
+200,Turks and Caicos Islands,4.481
+201,Brunei,1.473
+202,Greenland,68.983
+203,Libya,12.273
+204,Micronesia,0.331
+205,Palau,0.237
+206,Kiribati,3.331
+207,Saint Helena,0.354
+208,Tuvalu,0.047
+209,Cayman Islands,3.046
+210,Mayotte,0.429
+211,Maldives,-229.87800000000001
+212,Mauritania,-350.00399999999996
+213,Andorra,0.011
