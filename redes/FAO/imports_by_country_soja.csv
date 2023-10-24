@@ -1,0 +1,115 @@
+index,name,imports (m usd)
+1,Australia,0.944
+2,Austria,46.912
+3,Belgium,265.198
+4,Brazil,44.792
+5,Canada,104.508
+6,China,26296.194
+10,Denmark,55.266
+12,Finland,5.488
+13,France,244.336
+14,Germany,1489.77
+15,Guatemala,1.995
+16,India,0.008
+17,Indonesia,840.037
+18,Iran,386.693
+20,Ireland,10.656
+21,Italy,679.326
+22,Japan,1832.223
+24,Lebanon,1.534
+25,Malaysia,319.051
+26,Netherlands,1563.714
+27,Pakistan,0.058
+28,Philippines,30.298
+29,Poland,5.749
+30,Republic of Korea,573.869
+31,Russian Federation,487.484
+32,Saudi Arabia,167.157
+33,Singapore,13.432
+34,Spain,1389.082
+35,Sweden,16.261
+36,Switzerland,16.22
+38,Thailand,813.033
+39,Turkey,742.426
+41,Ukraine,1.477
+43,United Kingdom,400.94
+44,United States,229.825
+48,Argentina,0.55
+50,Bosnia and Herzegovina,24.609
+51,Bulgaria,8.782
+52,Cabo Verde,0.003
+53,Cameroon,0.003
+54,Colombia,156.003
+57,Costa Rica,113.863
+58,Cote d'Ivoire,0.079
+59,Croatia,14.106
+61,Cyprus,0.118
+62,Czech Republic,11.383
+65,Ecuador,0.281
+66,Ethiopia,0.342
+67,Greece,124.657
+68,Hungary,6.465
+69,Israel,227.405
+70,Kenya,4.815
+71,Kyrgyzstan,0.282
+72,Lithuania,0.394
+73,Luxembourg,0.582
+74,Malawi,1.878
+75,Mexico,1591.5
+76,Montenegro,0.629
+77,Morocco,93.931
+78,Nicaragua,0.021
+79,Norway,194.034
+81,Portugal,377.713
+82,Republic of Moldova,9.179
+83,Romania,7.947
+85,Serbia,18.425
+86,Slovakia,4.902
+87,Slovenia,116.734
+88,Syrian Arab Republic,222.525
+89,Macedonia,0.301
+90,Tunisia,199.269
+91,Uganda,0.142
+93,Venezuela,48.185
+94,Bolivia,2.39
+95,Chile,27.891
+96,El Salvador,0.046
+97,Estonia,0.243
+98,Fiji,0.009
+101,Iceland,0.014
+102,Jamaica,0.099
+103,Madagascar,0.227
+104,New Zealand,1.178
+107,Peru,44.845
+108,South Africa,0.966
+109,Sri Lanka,0.837
+111,Trinidad and Tobago,5.392
+112,United Republic of Tanzania,1.616
+114,Zambia,0.004
+116,Belarus,2.557
+118,Ghana,0.022
+119,Guyana,1.82
+120,Latvia,7.96
+124,Oman,0.006
+126,Aruba,0.007
+127,Barbados,10.015
+129,Suriname,0.079
+132,Azerbaijan,4.24
+133,Bahrain,5.594
+137,Botswana,1.427
+138,Cambodia,0.036
+145,Jordan,0.04
+147,Malta,0.054
+149,Mauritius,0.168
+154,Nepal,12.599
+155,New Caledonia,0.029
+157,Qatar,0.169
+158,Rwanda,0.821
+165,Vanuatu,0.001
+167,Zimbabwe,9.553
+172,Togo,0.015
+177,Saint Vincent and the Grenadines,0.574
+181,French Polynesia,0.022
+186,Senegal,0.006
+189,Bhutan,0.017
+211,Maldives,0.004
